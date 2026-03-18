@@ -135,4 +135,28 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-d29cb266df27464db9c8d1e49e29bbc3.xml#id-d29cb266df27464db9c8d1e49e29bbc3"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f329a8fe03d941b2b14f89f9e3a1e070">
+    <bounds
+        x="132"
+        y="132"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-0e6b151bbbff484d8ff945828e956889.xml#id-0e6b151bbbff484d8ff945828e956889"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b25b70b265c542ff9c7a15274a5a4733">
+    <bounds
+        x="276"
+        y="78"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-7a0fc9253c5e40e79999ec1c13da7e96.xml#id-7a0fc9253c5e40e79999ec1c13da7e96"/>
+  </children>
 </archimate:ArchimateDiagramModel>
