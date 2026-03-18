@@ -137,26 +137,26 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1f2705cf1b1b41fab559cd4f3c5687a3">
+      id="id-f329a8fe03d941b2b14f89f9e3a1e070">
     <bounds
-        x="744"
-        y="360"
+        x="132"
+        y="132"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-1f5179b3e88c4814a3e389eeafc0d488.xml#id-1f5179b3e88c4814a3e389eeafc0d488"/>
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-0e6b151bbbff484d8ff945828e956889.xml#id-0e6b151bbbff484d8ff945828e956889"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-babc3033e49942b7895ff99dfeea7965">
+      id="id-b25b70b265c542ff9c7a15274a5a4733">
     <bounds
-        x="672"
-        y="552"
+        x="276"
+        y="78"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:WorkPackage"
-        href="WorkPackage_id-3f0a9630cec549279cad0eb92850834c.xml#id-3f0a9630cec549279cad0eb92850834c"/>
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-7a0fc9253c5e40e79999ec1c13da7e96.xml#id-7a0fc9253c5e40e79999ec1c13da7e96"/>
   </children>
 </archimate:ArchimateDiagramModel>
