@@ -191,4 +191,16 @@
         xsi:type="archimate:DataObject"
         href="DataObject_id-1ec1bc9598414133967896665da8f7b9.xml#id-1ec1bc9598414133967896665da8f7b9"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3f9ef8e398db4a9e847f2c743a56669b">
+    <bounds
+        x="543"
+        y="480"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyFunction"
+        href="TechnologyFunction_id-dfbad70a8dcc413abd2f870c407bc589.xml#id-dfbad70a8dcc413abd2f870c407bc589"/>
+  </children>
 </archimate:ArchimateDiagramModel>
