@@ -334,8 +334,8 @@
           href="RealizationRelationship_id-d471647646554edaa7a77063651d6721.xml#id-d471647646554edaa7a77063651d6721"/>
     </sourceConnections>
     <bounds
-        x="587"
-        y="1368"
+        x="504"
+        y="1356"
         width="391"
         height="217"/>
     <archimateElement
@@ -356,8 +356,8 @@
           href="RealizationRelationship_id-db2432a3a9d74b3da6fe6c5069fd67f3.xml#id-db2432a3a9d74b3da6fe6c5069fd67f3"/>
     </sourceConnections>
     <bounds
-        x="167"
-        y="1368"
+        x="84"
+        y="1356"
         width="240"
         height="217"/>
     <archimateElement
@@ -369,8 +369,8 @@
       id="id-1cf8c70f4ca84f7d9f68e94712d38f1d"
       targetConnections="id-b81c1306e97c416986d8312bf867e48c">
     <bounds
-        x="227"
-        y="1272"
+        x="144"
+        y="1260"
         width="120"
         height="55"/>
     <archimateElement
@@ -382,8 +382,8 @@
       id="id-f1a6b41a238846b889d90f55863c8361"
       targetConnections="id-e31a7ae5ab9343f7b60ff3d8a4f2a267">
     <bounds
-        x="587"
-        y="1272"
+        x="504"
+        y="1260"
         width="120"
         height="55"/>
     <archimateElement
@@ -395,8 +395,8 @@
       id="id-5a5e8a83cb8a41b1af1e77478984ca42"
       targetConnections="id-d1691906d01f4dd2a9d7ee506192c0f3">
     <bounds
-        x="743"
-        y="1272"
+        x="660"
+        y="1260"
         width="120"
         height="55"/>
     <archimateElement
@@ -408,8 +408,8 @@
       id="id-d5de5c8da9dc48fb93107ea612b17704"
       targetConnections="id-8d5bca1136e542a9bbc72a9e788cb6e7">
     <bounds
-        x="887"
-        y="1272"
+        x="804"
+        y="1260"
         width="120"
         height="55"/>
     <archimateElement
@@ -430,8 +430,8 @@
           href="TriggeringRelationship_id-451be97c892b4bd08274e2f6a4280695.xml#id-451be97c892b4bd08274e2f6a4280695"/>
     </sourceConnections>
     <bounds
-        x="431"
-        y="1404"
+        x="348"
+        y="1392"
         width="120"
         height="55"/>
     <archimateElement
@@ -452,8 +452,8 @@
           href="AssociationRelationship_id-a7ace171edc1430daadc4eb90c849008.xml#id-a7ace171edc1430daadc4eb90c849008"/>
     </sourceConnections>
     <bounds
-        x="431"
-        y="1500"
+        x="348"
+        y="1488"
         width="120"
         height="55"/>
     <archimateElement
