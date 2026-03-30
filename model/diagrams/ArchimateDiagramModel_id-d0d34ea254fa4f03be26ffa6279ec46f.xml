@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
+    name="As-Is"
     id="id-d0d34ea254fa4f03be26ffa6279ec46f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -574,19 +574,6 @@
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-da602a7547e94e78a64e403ac5eb4ce1.xml#id-da602a7547e94e78a64e403ac5eb4ce1"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-2bfd2f3eae984b07b42a01cbdf16ac36"
-        source="id-539c22ac08104ca7aa770e3950f704d5"
-        target="id-ed100eab58ec4a5b92294c77e7e18391">
-      <bendpoints
-          startX="-480"
-          startY="-6"
-          endY="40"/>
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-9f706e3bfe07452981615b201349d0cc.xml#id-9f706e3bfe07452981615b201349d0cc"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1405,18 +1392,5 @@
     <archimateElement
         xsi:type="archimate:CommunicationNetwork"
         href="CommunicationNetwork_id-fa5746bb2bc143809e61c010f71ff0c7.xml#id-fa5746bb2bc143809e61c010f71ff0c7"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ed100eab58ec4a5b92294c77e7e18391"
-      targetConnections="id-2bfd2f3eae984b07b42a01cbdf16ac36">
-    <bounds
-        x="528"
-        y="45"
-        width="120"
-        height="49"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-81ba3a7a68464e73ad3c8acbd98e606a.xml#id-81ba3a7a68464e73ad3c8acbd98e606a"/>
   </children>
 </archimate:ArchimateDiagramModel>
