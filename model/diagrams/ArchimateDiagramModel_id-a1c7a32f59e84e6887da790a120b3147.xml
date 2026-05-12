@@ -183,18 +183,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b7e423d01e19462d9b72ce2ed752b5dc">
-    <bounds
-        x="-48"
-        y="12"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Stakeholder"
-        href="Stakeholder_id-6fdc74b2ff24447c8cba200f71268806.xml#id-6fdc74b2ff24447c8cba200f71268806"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5d89447f84e64453ba20581da49f8430"
       targetConnections="id-70fb2bb0df5249c6957fe2e79c32890c id-c9658680faf9471295e66c32513c3400 id-548c480d9d3b47709c812c16d6cb9857">
     <sourceConnections
@@ -258,42 +246,6 @@
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-42d7bdc276dc4e1093b3d0f309ba69fe.xml#id-42d7bdc276dc4e1093b3d0f309ba69fe"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-06bbbb5ccd5a40ed8ec459fb9564ffae">
-    <bounds
-        x="-48"
-        y="90"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Goal"
-        href="Goal_id-7f0c7d8f91a24bcab58f36a2a0b94c2e.xml#id-7f0c7d8f91a24bcab58f36a2a0b94c2e"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6d8707f2b65d4cac88c6307220fe6604">
-    <bounds
-        x="-60"
-        y="168"
-        width="144"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Outcome"
-        href="Outcome_id-e31e30b93d18435abd6b930c31de071b.xml#id-e31e30b93d18435abd6b930c31de071b"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-295417e9675c4eb9b2e8871698bebcac">
-    <bounds
-        x="-60"
-        y="327"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Requirement"
-        href="Requirement_id-19481763a8b44a5cbdbe165cf9ff89d7.xml#id-19481763a8b44a5cbdbe165cf9ff89d7"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -392,19 +344,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-10165bb9007a4a6b8db4786ba0e5f301"
-      targetConnections="id-cbb200b9e6d6438fb59d78865d586761">
-    <bounds
-        x="445"
-        y="1020"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ValueStream"
-        href="ValueStream_id-3a7d8d09f1924e53ac2b74c140d54b8a.xml#id-3a7d8d09f1924e53ac2b74c140d54b8a"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f38148867fe744aabae58a4f4e6d5ee3"
       targetConnections="id-aed224f475bf4f5c9a0e628721a1e18c">
     <sourceConnections
@@ -449,18 +388,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5ebfe8a1f0584f198e82f071a64fdfc2">
-    <bounds
-        x="-60"
-        y="252"
-        width="144"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Outcome"
-        href="Outcome_id-cd3bf1e609b847d7ae26b7d5cbf43a3f.xml#id-cd3bf1e609b847d7ae26b7d5cbf43a3f"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6a8b679e4d57452c8028c4abced211d5">
     <bounds
         x="720"
@@ -475,15 +402,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a2bb74a055334d38832e79b8a8332b7d"
       targetConnections="id-958388e3447840d7976273d314d87b4b">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-cbb200b9e6d6438fb59d78865d586761"
-        source="id-a2bb74a055334d38832e79b8a8332b7d"
-        target="id-10165bb9007a4a6b8db4786ba0e5f301">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-2c8f26269ac14a878e1c12fbf2a39fdd.xml#id-2c8f26269ac14a878e1c12fbf2a39fdd"/>
-    </sourceConnections>
     <bounds
         x="-7"
         y="840"
