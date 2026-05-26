@@ -609,7 +609,7 @@
     <bounds
         x="924"
         y="240"
-        width="565"
+        width="361"
         height="253"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -658,34 +658,8 @@
       <bounds
           x="180"
           y="120"
-          width="373"
+          width="133"
           height="121"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-428b6adc86df4a9fb1e8afb58d044f67"
-          fillColor="#80b5dc">
-        <bounds
-            x="12"
-            y="36"
-            width="133"
-            height="73"/>
-        <archimateElement
-            xsi:type="archimate:Capability"
-            href="Capability_id-43c1e3e5e2c7433bb8a41893457a5624.xml#id-43c1e3e5e2c7433bb8a41893457a5624"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-823eee5629eb4d9ca274d60015fafdde"
-          fillColor="#80b5dc">
-        <bounds
-            x="168"
-            y="36"
-            width="133"
-            height="73"/>
-        <archimateElement
-            xsi:type="archimate:Capability"
-            href="Capability_id-0be59810ccbc4b629591d205de6cd127.xml#id-0be59810ccbc4b629591d205de6cd127"/>
-      </children>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_id-7f97d52fc2c44dc9950af775e0b04ddb.xml#id-7f97d52fc2c44dc9950af775e0b04ddb"/>
@@ -700,8 +674,8 @@
       textAlignment="1"
       content="Capabilites should always be expressed as nouns and not verbs&#xA; example: &#xA;cabability: &#xA;product development&#xA;&#xA;process: &#xA;develop product&#xA;">
     <bounds
-        x="1824"
-        y="228"
+        x="2400"
+        y="230"
         width="185"
         height="184"/>
   </children>
@@ -711,8 +685,8 @@
       textAlignment="1"
       content="Capability can not be duplicated in multiple regions&#xA;">
     <bounds
-        x="1488"
-        y="10"
+        x="2064"
+        y="12"
         width="185"
         height="184"/>
   </children>
@@ -722,8 +696,8 @@
       textAlignment="1"
       content="Capabilites map usually remain static, organisational changes does not affect capabilites&#xA;&#xA;Only a strategic major shift can affect the capability map">
     <bounds
-        x="1692"
-        y="10"
+        x="2268"
+        y="12"
         width="185"
         height="184"/>
   </children>
@@ -733,8 +707,8 @@
       textAlignment="1"
       content="Capability heat map&#xA;">
     <bounds
-        x="1892"
-        y="10"
+        x="2468"
+        y="12"
         width="185"
         height="184"/>
   </children>
@@ -744,8 +718,8 @@
       textAlignment="1"
       content="data gathering on le fait déjà ou c'est tout nouveau ?&#xA;">
     <bounds
-        x="1560"
-        y="214"
+        x="2136"
+        y="216"
         width="185"
         height="80"/>
   </children>
